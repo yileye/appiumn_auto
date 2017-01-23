@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-import urllib.request
-from urllib.error import URLError
+# import urllib.request
+# from urllib.error import URLError
 from multiprocessing import Process
 from Common.CoGlobal import *
 PATH = lambda p: os.path.abspath(

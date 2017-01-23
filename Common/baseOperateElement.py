@@ -1,12 +1,13 @@
-__author__ = 'Administrator'
 # -*- coding: utf-8 -*-
+__author__ = 'Administrator'
+
 from selenium.webdriver.support.ui import WebDriverWait
 import selenium.common.exceptions
 from Common.CoGlobal import *
 import time
 from Common import errorLog
 
-# 此脚本主要用于查找元素是否存在，操作页面元素
+#此脚本主要用于查找元素是否存在，操作页面元素
 class getOperateElement():
     def __init__(self, driver=""):
         self.cts = driver

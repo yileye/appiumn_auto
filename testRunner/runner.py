@@ -1,5 +1,5 @@
-__author__ = 'Administrator'
 # -*- coding: utf-8 -*-
+__author__ = 'Administrator'
 import unittest
 from appium import webdriver
 from Common.CoGlobal import *
@@ -7,8 +7,8 @@ from testMode import MDevices
 from testBLL import BDevices
 import os
 from selenium import webdriver as web
-from seleniumrequests import Chrome
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+# from seleniumrequests import Chrome
+# from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 PATH = lambda p: os.path.abspath(
     os.path.join(os.path.dirname(__file__), p)

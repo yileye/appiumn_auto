@@ -1,3 +1,4 @@
+#-*-coding:utf-8-*-_
 __author__ = 'Administrator'
 # -*- coding: utf-8 -*-
 import json

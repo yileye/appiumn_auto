@@ -1,5 +1,6 @@
-__author__ = 'Administrator'
 # -*- coding: utf-8 -*-
+__author__ = 'Administrator'
+
 import json
 
 from Common import getXMl, baseOperateElement as bo

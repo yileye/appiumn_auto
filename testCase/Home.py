@@ -1,4 +1,5 @@
-__author__ = 'Administrator'
+#-*-coding:utf-8-*-_
+_author__ = 'Administrator'
 import unittest
 import os
 PATH = lambda p: os.path.abspath(

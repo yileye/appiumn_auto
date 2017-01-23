@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __author__ = 'Administrator'
 from schematics.models import Model
 from schematics.types import StringType, IntType

@@ -1,5 +1,6 @@
-__author__ = 'shikun'
 # -*- coding: utf-8 -*-
+__author__ = 'shikun'
+
 import subprocess
 import re, os
 # 常用的性能监控

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __author__ = 'shikun'
 #获取app的信息。设备名，测试的app的包名，appium 服务器的信息
 # -*- coding:utf-8 -*-
